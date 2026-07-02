@@ -13,7 +13,7 @@
 **Mohsen Barzegari** — Aspiring DevOps & DevSecOps Learner
 _21 y/o | Passionate about Linux, Docker & Security | Just getting started 🌱_
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7A0&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Learner;Linux+%7C+Docker+%7C+Automation;Passionate+about+DevSecOps&label=llun-072)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7A0&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Learner;Linux+%7C+Docker+%7C+Automation;Passionate+about+DevSecOps&label=llun-072)]
 
 </div>
 
