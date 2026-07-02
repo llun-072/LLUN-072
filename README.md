@@ -13,7 +13,7 @@
 **Mohsen Barzegari** — Aspiring DevOps & DevSecOps Learner
 _21 y/o | Passionate about Linux, Docker & Security | Just getting started 🌱_
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7A0&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Learner;Linux+%7C+Docker+%7C+Automation;Passionate+about+DevSecOps&label=llun-072)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7A0&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Learner;Linux+%7C+Docker+%7C+Automation;Passionate+about+DevSecOps&label=llun-072)
 
 </div>
 
@@ -82,7 +82,9 @@ philosophy : "Automate the boring. Secure the rest."
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=llun-072&theme=dark&hide_border=true&background=0d1117&stroke=00f7a0&ring=00f7a0&fire=ff6b35&currStreakLabel=00f7a0)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=llun-072&theme=dark&hide_border=true&background=0d1117&stroke=00f7a0&ring=00f7a0&fire=ff6b35&currStreakLabel=00f7a0)
+
+> 📈 _Stats cards will appear once I push my first projects!_
 
 </div>
 
